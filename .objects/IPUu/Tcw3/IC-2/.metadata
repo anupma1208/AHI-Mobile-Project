@@ -1,0 +1,12 @@
+﻿{
+  "Id": "IC-2KbkTEkO_dnQEjulQ3A",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/IC-2KbkTEkO_dnQEjulQ3A",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/Tcw3BwXyN0-gyBm29zDC7w",
+  "Name": "Lot transfer",
+  "Type": "Screen",
+  "Created": "2023-04-13T13:27:15.096902Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-13T13:27:15.096902Z"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "KxI0Ir-4jEeiwyPMe1oy0Q",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/KxI0Ir-4jEeiwyPMe1oy0Q",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/EDuTfkxeKEyZ1VaGlt0p-A",
+  "Name": "Lot",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-20T10:32:10.8690792Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-20T10:32:10.8690792Z"
+}

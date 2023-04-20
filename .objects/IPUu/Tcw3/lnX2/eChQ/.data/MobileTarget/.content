@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="Mg9JcIcjQEWzhp-XyBV3sA" DesignTimeRectangle="8, 251, 168, 60" FriendlyName="Set Text" FullSelectorArgument="&lt;mbl android:className='android.widget.ScrollView' /&gt;&lt;mbl android:className='android.widget.EditText' idx='4' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.ScrollView' id='' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.EditText' id='com.ahi.movements.internal.debug:id/et_input' accessibilityId='' text='Headcount*' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Headcount*" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="72, 42, 91, 27" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Receiving">
+        <imageRef attrName="ImageBase64" xmlns="">1cWugI1vWQEWfrDUbsCcpuw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0mBfbtZicSEqeO6MGjnQ4Mg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fcd1a59a35e7b14e900d83dd66e0dfa5.png" xmlns="">0iRnFfn0yu0aeKKG2-tZXzw</imageRef>
+</Target>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="sHvt_dC9HEekMfrfDy0rYw" DesignTimeRectangle="72, 27, 288, 56" FriendlyName="Set Text" FullSelectorArgument="&lt;mbl android:className='android.widget.EditText' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.EditText' id='com.ahi.movements.internal.debug:id/et_mm_search' accessibilityId='' text='Search...' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Search..." xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">05GuQqcS0nEq9d1sve-mlrA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="70c50ab16679ea93a5bde165af9d6676.png" xmlns="">0IuLcqQZT_U6NiDlS90McYw</imageRef>
+</Target>

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "6Xc9CGmG-EmFICStDXfsbA",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/6Xc9CGmG-EmFICStDXfsbA",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/D3Xh94HYFkGIMA-BG95mIw",
+  "Name": "Phone no",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-13T13:17:05.4600861Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-13T13:17:05.4600861Z"
+}

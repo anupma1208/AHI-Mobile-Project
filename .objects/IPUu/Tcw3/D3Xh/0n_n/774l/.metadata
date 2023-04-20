@@ -1,0 +1,14 @@
+﻿{
+  "Id": "774l0n9UnUiM8CK5u2522w",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/774l0n9UnUiM8CK5u2522w",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/0n_ncNSFOkimM5uffUS45g",
+  "Name": "My sites",
+  "Type": "Element",
+  "TaxonomyType": "element",
+  "Created": "2023-04-13T13:22:34.6903692Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-13T13:22:34.6903692Z"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="oyssg7CzAU-BxxlegxM19w" DesignTimeRectangle="24, 381, 195, 42" FriendlyName="Set Text" FullSelectorArgument="&lt;mbl android:className='android.view.ViewGroup' /&gt;&lt;mbl android:className='android.widget.EditText' idx='2' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.movements.internal.debug:id/verify_code_container' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.EditText' id='com.ahi.movements.internal.debug:id/et_code' accessibilityId='' text='Code' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Code" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="235, 370, 92, 49" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="SUBMIT">
+        <imageRef attrName="ImageBase64" xmlns="">1_UvCxuIwakOM3DXLT2SU6Q</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0qe3JBRBRE0GnCc3BvylBGA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="76d4cc4a936a9a36bb7fa6ecb1ac29ac.png" xmlns="">0IiowJ-9gVkGdiIK9YMO7Xg</imageRef>
+</Target>

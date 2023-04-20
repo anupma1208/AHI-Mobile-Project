@@ -1,0 +1,12 @@
+﻿{
+  "Id": "EDuTfkxeKEyZ1VaGlt0p-A",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/EDuTfkxeKEyZ1VaGlt0p-A",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/Tcw3BwXyN0-gyBm29zDC7w",
+  "Name": "Shipment",
+  "Type": "Screen",
+  "Created": "2023-04-20T10:23:04.7764391Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-20T10:23:04.7764391Z"
+}

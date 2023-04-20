@@ -1,0 +1,14 @@
+﻿{
+  "Id": "b6rCpS9CxkCZjGK7Py-r3A",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/b6rCpS9CxkCZjGK7Py-r3A",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/D3Xh94HYFkGIMA-BG95mIw",
+  "Name": "Endpoint",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-13T13:15:04.1892081Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-13T13:15:04.1892081Z"
+}

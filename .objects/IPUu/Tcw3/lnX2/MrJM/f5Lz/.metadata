@@ -1,0 +1,14 @@
+﻿{
+  "Id": "f5LzdZbxjECyPUlraCGPtQ",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/f5LzdZbxjECyPUlraCGPtQ",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/MrJMF7shLUyNgTJn-eSqww",
+  "Name": "Filter",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-04-13T13:58:48.3360508Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-13T13:58:48.3360508Z"
+}

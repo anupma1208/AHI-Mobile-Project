@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="PLWNh1X7Yk2PCBtX4IM9qg" DesignTimeRectangle="184, 99, 168, 60" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.ScrollView' /&gt;&lt;mbl android:className='android.widget.EditText' idx='2' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.ScrollView' id='' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.EditText' id='com.ahi.movements.internal.debug:id/et_input' accessibilityId='' text='Pen*' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Pen*" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0WUGJFE6bhE-DQFscKveqxg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="52b440b2ae9243af25c4f6d614cd7c2f.png" xmlns="">0uE4Adtj4K0G57qbwFcC6Zw</imageRef>
+</Target>

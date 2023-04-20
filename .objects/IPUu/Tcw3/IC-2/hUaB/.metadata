@@ -1,0 +1,14 @@
+﻿{
+  "Id": "hUaBDZIpD0SbqMkKUpCcXQ",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/hUaBDZIpD0SbqMkKUpCcXQ",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/IC-2KbkTEkO_dnQEjulQ3A",
+  "Name": "Lot transfer title",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-13T13:30:11.7398482Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-13T13:30:11.7398482Z"
+}

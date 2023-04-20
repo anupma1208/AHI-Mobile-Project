@@ -1,0 +1,12 @@
+﻿{
+  "Id": "movbvpK2R0mIfRsnvbg-eA",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/movbvpK2R0mIfRsnvbg-eA",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/Tcw3BwXyN0-gyBm29zDC7w",
+  "Name": "Pen Movement",
+  "Type": "Screen",
+  "Created": "2023-04-13T13:26:36.4091948Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-13T13:26:36.4091948Z"
+}

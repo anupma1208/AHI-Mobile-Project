@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="Sqlmhkec3kW0BItY-_a5eg" DesignTimeRectangle="24, 304, 320, 42" FriendlyName="Set Text" FullSelectorArgument="&lt;mbl android:className='android.view.ViewGroup' /&gt;&lt;mbl android:className='android.widget.EditText' idx='1' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.movements.internal.debug:id/verify_code_container' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.EditText' id='com.ahi.movements.internal.debug:id/et_phone' accessibilityId='' text='Phone Number' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Phone Number" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0tWmPCehsoUeqm3q4qP-oXA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a4b3cc3435fd62842cee94fc35ecd9de.png" xmlns="">0V1dVd8_r1Eat_fKsxmTwrQ</imageRef>
+</Target>

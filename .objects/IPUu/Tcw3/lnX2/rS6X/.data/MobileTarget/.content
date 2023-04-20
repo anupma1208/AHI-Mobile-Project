@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="4HUM_j_UVkiFVpoI2cpPfw" DesignTimeRectangle="0, 418, 360, 48" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.Button' text='RECEIVE CATTLE' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.Button' text='RECEIVE CATTLE' id='com.ahi.movements.internal.debug:id/btn_receive_cattle' accessibilityId='' check:text='RECEIVE CATTLE' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="RECEIVE CATTLE" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0uZWKu6CbNkKnAXzU1kUJLw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6d094ff2d849826b0603e7e9ddd7222f.png" xmlns="">0F8ASy50RTUK050w1UKqqhg</imageRef>
+</Target>

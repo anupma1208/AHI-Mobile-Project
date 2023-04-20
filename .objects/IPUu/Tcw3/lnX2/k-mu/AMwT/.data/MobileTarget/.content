@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="cQLEzOL_lEO0cYfQK7FukQ" DesignTimeRectangle="312, 31, 48, 48" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' accessibilityId='Search' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' accessibilityId='Search' id='com.ahi.movements.internal.debug:id/action_search' text='' check:text='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="72, 42, 94, 27" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Select Lot">
+        <imageRef attrName="ImageBase64" xmlns="">105u0g-eo-ECOjO9M604Ieg</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Ga1rc9PEW0CP1n5051RTxw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="11bd8679f48b5d3fd1cc5bd0e62ae6b7.png" xmlns="">0TYUUPDIRG0eUlpf4iT3ohQ</imageRef>
+</Target>

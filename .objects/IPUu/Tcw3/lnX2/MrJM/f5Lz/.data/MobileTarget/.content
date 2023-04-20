@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="8fmiGno8DkudI09obUXvVw" DesignTimeRectangle="264, 31, 48, 48" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' accessibilityId='Filter' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' accessibilityId='Filter' id='com.ahi.movements.internal.debug:id/action_filter' text='' check:text='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0Nz_ynzpk3k2PsrSQj7syCg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="cc40b6a9838ca66f12198bb1e75cc5cb.png" xmlns="">0-fOWnckHB0S3_U1B-IXBUA</imageRef>
+</Target>

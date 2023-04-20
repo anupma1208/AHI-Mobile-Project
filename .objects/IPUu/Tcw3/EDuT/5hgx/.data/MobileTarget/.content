@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="yv6SW6uQqUqdL7jYwox3fw" DesignTimeRectangle="30, 621, 74, 21" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='SHIPPING' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='SHIPPING' id='com.ahi.movements.internal.debug:id/tv_animal_lookup_title' accessibilityId='' check:text='SHIPPING' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="SHIPPING" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="4">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="30, 651, 161, 19" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Ship animals from Facility">
+        <imageRef attrName="ImageBase64" xmlns="">1BDgZmZ8pckG7VgzhzdGnqg</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0bVRrfh-010WaYv_luII2kA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="136dd3edcb0f8651acab30f35eccc4bb.png" xmlns="">0tG_bnSfHHkKziIfsmTRJ3g</imageRef>
+</Target>

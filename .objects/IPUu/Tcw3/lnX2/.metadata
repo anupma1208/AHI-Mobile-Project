@@ -1,0 +1,12 @@
+﻿{
+  "Id": "lnX284BKzk2Dv_p83dbRPQ",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/lnX284BKzk2Dv_p83dbRPQ",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/Tcw3BwXyN0-gyBm29zDC7w",
+  "Name": "Receive",
+  "Type": "Screen",
+  "Created": "2023-04-13T13:26:57.5908862Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-13T13:26:57.5908862Z"
+}

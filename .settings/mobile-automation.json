@@ -1,0 +1,101 @@
+{
+  "GenerateCrossPlatformAttributes": false,
+  "GenerateSelectorsForInnerElements": true,
+  "Connections": [
+    {
+      "Name": "Redmi 9A",
+      "Description": null,
+      "Url": "http://localhost:4723/wd/hub",
+      "PlatformName": "Android",
+      "PlatformVersion": "10.0",
+      "DeviceName": "KZX8YDRG854XRCXW",
+      "SingleInstance": null,
+      "WaitForPageUpdate": true,
+      "Capabilities": {},
+      "GeoLocation": null,
+      "LoggingModel": {
+        "LoggingEnabled": false,
+        "VideoRecordingEnabled": false,
+        "RecordingTimeLimit": 600,
+        "VideoQuality": 1,
+        "CollectScreenshot": 0,
+        "CollectPageSource": 0
+      },
+      "HttpHeaders": {}
+    },
+    {
+      "Name": "browserstack",
+      "Description": null,
+      "Url": "https://browserstack_YrqJX9:xaBLqqzQUDQ1WizrorDi@hub-cloud.browserstack.com/wd/hub",
+      "PlatformName": "iOS",
+      "PlatformVersion": "16",
+      "DeviceName": "iPhone 14 Pro Max",
+      "SingleInstance": null,
+      "WaitForPageUpdate": true,
+      "Capabilities": {
+        "userName": "browserstack_YrqJX9",
+        "accessKey": "xaBLqqzQUDQ1WizrorDi"
+      },
+      "GeoLocation": null,
+      "LoggingModel": {
+        "LoggingEnabled": false,
+        "VideoRecordingEnabled": false,
+        "RecordingTimeLimit": 600,
+        "VideoQuality": 1,
+        "CollectScreenshot": 0,
+        "CollectPageSource": 0
+      },
+      "HttpHeaders": {}
+    }
+  ],
+  "Applications": [
+    {
+      "$id": "1",
+      "Name": "Penrider",
+      "Description": null,
+      "Type": "App",
+      "Platforms": {
+        "Android": {
+          "Capabilities": {
+            "app": "C:\\Users\\Anupma Kumari\\Downloads\\Copy of ams-penrider-android-1.0.92-internal-release.apk"
+          },
+          "StartPage": null
+        }
+      }
+    },
+    {
+      "$id": "2",
+      "Name": "Movement",
+      "Description": null,
+      "Type": "App",
+      "Platforms": {
+        "Android": {
+          "Capabilities": {
+            "noReset": "False",
+            "app": "C:\\Users\\Anupma Kumari\\Downloads\\app-1.0-internal-debug (3).apk"
+          },
+          "StartPage": null
+        }
+      }
+    },
+    {
+      "$id": "3",
+      "Name": "browserstack",
+      "Description": null,
+      "Type": "App",
+      "Platforms": {
+        "iOS": {
+          "Capabilities": {
+            "app": "bs://fd77a58645e8af1716b8416dd906f78ee487a89b"
+          },
+          "StartPage": null
+        }
+      }
+    }
+  ],
+  "NormalizeSliderValue": false,
+  "IdsMaxAllowedLength": 40,
+  "LogsPath": "%TEMP%\\UiPath Mobile Automation Logs",
+  "Variables": {},
+  "HttpHeaders": {}
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Id": "D3Xh94HYFkGIMA-BG95mIw",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/D3Xh94HYFkGIMA-BG95mIw",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/Tcw3BwXyN0-gyBm29zDC7w",
+  "Name": "Login",
+  "Type": "Screen",
+  "Created": "2023-04-13T13:13:23.9799888Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-13T13:13:23.9799888Z"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="9_5iEK6smUegsS99406FZw" DesignTimeRectangle="56, 209, 240, 61" FriendlyName="Set Text" FullSelectorArgument="&lt;mbl android:className='android.widget.EditText' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.EditText' id='com.ahi.movements.internal.debug:id/md_input_message' accessibilityId='' text='Lot' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Lot" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="56, 162, 137, 27" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Create New Lot">
+        <imageRef attrName="ImageBase64" xmlns="">14GbG0f3fS0aOMn9yb4g9Gg</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0ZN5mxN4TUkGm683snE4Lag</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d2b12db6a0818de9e9f22a50c9e3e84d.png" xmlns="">03UJqJiuAXk2wIg6h37KMWQ</imageRef>
+</Target>

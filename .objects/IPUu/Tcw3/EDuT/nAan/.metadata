@@ -1,0 +1,14 @@
+﻿{
+  "Id": "nAanP0oqMkaK25xU_GBMvg",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/nAanP0oqMkaK25xU_GBMvg",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/EDuTfkxeKEyZ1VaGlt0p-A",
+  "Name": "Confirm shipping",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-04-20T10:33:54.4992079Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-20T10:33:54.4992079Z"
+}

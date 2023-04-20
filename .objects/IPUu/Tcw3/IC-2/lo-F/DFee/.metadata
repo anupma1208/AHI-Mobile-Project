@@ -1,0 +1,14 @@
+﻿{
+  "Id": "DFeehlnoFkSP19bDyRzoqw",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/DFeehlnoFkSP19bDyRzoqw",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/lo-FKfss00GRpLcTlTZ8nA",
+  "Name": "Textbox of create new lot",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-04-13T13:32:37.6017976Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-13T13:32:37.6017976Z"
+}

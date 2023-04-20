@@ -1,0 +1,271 @@
+{
+  "name": "AHI Mobile Project",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "CommonUtilityLibrary": "[1.0.9]",
+    "ReporterForUiPath.Activities": "[2.0.0]",
+    "UiPath.Excel.Activities": "[2.19.0-preview]",
+    "UiPath.MobileAutomation.Activities": "[23.4.0-preview]",
+    "UiPath.System.Activities": "[22.10.4]",
+    "UiPath.Testing.Activities": "[22.10.3]",
+    "UiPath.UIAutomation.Activities": "[22.10.5]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.10.5.0",
+  "projectVersion": "1.0.3",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "351e9294-3561-457c-a8ba-170e30491731",
+        "testCaseType": "TestCase",
+        "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "cf7ed248-847f-430a-805e-4f1bcd08a68b",
+        "testCaseType": "TestCase",
+        "fileName": "Penrider\\Main.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "fb088e96-831e-4e9e-b9ab-b581532db5a0",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Login.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "a12ffc42-46ce-4613-b45f-e9178e9a6bbb",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Logout.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b9c5d0c6-4e2b-46ec-a2a7-d15c79a8bf87",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Login-Wrong Credential.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "dc5aa067-7277-4a5a-b8e9-ef62b43b059a",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Mysites.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bd6dbd62-1aab-48d3-9ecb-014201683e4f",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Pen Movement\\Pen Movement- Destination pen is not selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "35fe27c7-7797-4f3d-9549-4032dd192e72",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Pen Movement\\Pen movement- search box of LOT.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "707865cb-c434-4686-8868-cd137ad30921",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Pen Movement\\Pen movement-pen type filter.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "ff1def9c-9a40-4914-916f-fb00439c7098",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Pen Movement\\Pen Movement- Headcount is greater than current headcount.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0e094346-c849-4594-8f18-00f26a9ba3c2",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Pen Movement\\Pen Movement- Using occupied option in 'To Pen'.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "2c907e32-ea23-4541-8cc0-b282d7032981",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Pen Movement\\Pen Movement- Move animal from one pen to another using headcount..xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "44700566-7ca6-4ff1-be1e-6c6be4c15962",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Pen Movement\\Pen Movement- Individual animal in the Tag is not selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "01b62781-d471-4474-a271-a19bc7f78c7d",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Pen Movement\\Pen Movement- Move animal from one pen to another using tags.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b7546609-df20-4f54-a398-1be1be25dc57",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\Recieve New Animals- No Sex Code Selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "871acb71-79c4-4823-9009-090aa10d9487",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\Received- search box of Lot.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "be5b7f5c-87f4-4a8b-929b-e874ceeda247",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\Receive New Animal- Pen and weight Automatically Selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "520f7901-4536-44fd-9360-e3111e093dc9",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\Receive New Animal-Create new lot.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5bc53620-dc07-4fe9-85cf-cdd5571c17f0",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\Recieve New Animal- Successfully received new animal.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d5cf2a61-6b75-4de7-a2d0-f6e65c04c1a4",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\create new lot.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "fcce2fee-61e5-4383-848c-9d6a8874dfdb",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Lot transfer\\Lot-Successfull lot transfer.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "986a84c5-e046-49c4-b6ee-5a578adc1300",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Pen Movement\\Pen Movement- Select all tags.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "c57f11ea-1ee0-4634-b4b0-23a56feb59b3",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Lot transfer\\Lot Transfer-Select Tags.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "8f5e034b-c7da-49cd-982c-26e0b6e40706",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Lot transfer\\Create New Lot.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "de4a60bf-9835-43bd-9963-231caed0899c",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\Create new lot with speical character.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "60c586a8-5567-4401-a283-5591e3aa83ab",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Lot transfer\\Lot -successful lot transfer.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b81ea6c5-fa44-4e3c-8804-4f88dc105000",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Lot transfer\\Create New Lot with special character.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "3ac2a6f5-63c6-4439-b1ec-ee8479e3a4b1",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Lot transfer\\Lot Transfer-Select Tags with pen.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "937f0a61-e482-4bbd-9722-2d70fabe1d03",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\lot is present.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5c7ee2fc-acb2-40c9-b67b-ef1d2f3f9af4",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Lot transfer\\Lot Transfer- Pen gets automatically selected after selecting Lot..xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5693ac4d-7565-45c9-8c24-911ad20bc46a",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Lot transfer\\Lot transfer-Lot automatically selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "9d2ba45b-016a-40cd-ba45-b94504f7090d",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Lot transfer\\Lot Transfer-Select one Tag.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "7d26c2ff-d136-4094-a31c-e100dacb16a9",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Shipping with Lot.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "3257486e-3cd2-439e-828c-e4bf93f3a09a",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Shipping with Pen.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "4caa33bf-82a1-4025-9196-123b1b9d878f",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Shipping with select all Tag.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "db08728f-9948-4b47-8ec0-647450b591b1",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Shipping with Lot - Copy (1).xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

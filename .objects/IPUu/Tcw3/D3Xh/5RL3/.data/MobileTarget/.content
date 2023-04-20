@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="FkA-nL8fR0y_8SxParhpSg" DesignTimeRectangle="0, 27, 360, 697" FriendlyName="Swipe" FullSelectorArgument="&lt;mbl android:className='android.view.ViewGroup' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.movements.internal.debug:id/send_code_container' accessibilityId='' text='' check:text='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="24, 99, 312, 113" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Enter your phone number">
+        <imageRef attrName="ImageBase64" xmlns="">14V2qyCUHaU-jpzowYhz4Ig</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0vTXwQO9hKUCHgCi2khu1BA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4e8293cf0ff4391f76476bfff67cbfd8.png" xmlns="">02hOjQjDfbk657mZmwJMUnw</imageRef>
+</Target>

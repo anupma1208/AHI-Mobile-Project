@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="tRa0uMa0J0SOaUi4xNoOEQ" DesignTimeRectangle="176, 53, 164, 21" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='My Sites' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='My Sites' id='com.ahi.movements.internal.debug:id/title' accessibilityId='' check:text='My Sites' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="My Sites" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0VMzpgd0vCUChAMBUug-_-A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9538a72275dde311e0a7f8b9f4b3bed9.png" xmlns="">0QG1UJCv3-EWFvGvYg517ZA</imageRef>
+</Target>

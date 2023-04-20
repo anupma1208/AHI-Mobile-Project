@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="TyAnChT4nk6G3CfMI3A1wA" DesignTimeRectangle="235, 370, 92, 49" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.Button' text='SUBMIT' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.Button' text='SUBMIT' id='com.ahi.movements.internal.debug:id/btn_submit' accessibilityId='' check:text='SUBMIT' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="SUBMIT" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="16, 424, 162, 48" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="I DON'T HAVE A CODE">
+        <imageRef attrName="ImageBase64" xmlns="">1pSQPXLr-SkWoPWJgcT2ahQ</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0BIi0TvSjQEK5CBlmEdTFLQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a8a9a0b0a8d66833ffe6f1c6f59e8dc5.png" xmlns="">0r0nMWaC_aUS0ZOnsvyVpBw</imageRef>
+</Target>

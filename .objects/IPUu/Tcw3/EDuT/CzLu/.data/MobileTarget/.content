@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="kU8adZRrj0KprZrUgliZsw" DesignTimeRectangle="209, 106, 104, 19" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='SELECT TAGS' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='SELECT TAGS' id='' accessibilityId='' check:text='SELECT TAGS' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="SELECT TAGS" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="4">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="34, 107, 127, 16" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="ENTER HEADCOUNT">
+        <imageRef attrName="ImageBase64" xmlns="">77k87mcPiPkyCo7_7bZtDvg</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">006tAy-IAvkGxS1tDsaJK8w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="415275313f4e94254b26845dc328f509.png" xmlns="">0R6_O2btgZUiFtFxHfHDCgg</imageRef>
+</Target>

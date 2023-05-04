@@ -23,6 +23,7 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
@@ -57,7 +58,7 @@
         "fileName": "Penrider\\Main.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "fb088e96-831e-4e9e-b9ab-b581532db5a0",
         "testCaseType": "TestCase",
         "fileName": "Movement\\Login.xaml"
@@ -256,9 +257,65 @@
       },
       {
         "editingStatus": "InProgress",
+        "testCaseId": "c936841f-bd00-46a7-9462-78da3942d13a",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Shipping with Lot - Headcount is greater than current headcount.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d36e9b48-639c-40f0-9f58-7e532fc83e6c",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Shipping with select one Tag.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "973dc615-cde7-48bd-b268-5051ee5b3335",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Add another pen lot.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f677a3f3-bde3-4a1a-afe9-e3ef91fa960b",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Add another pen lot using Tags.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "10fb8b21-9c32-4dfa-8b4c-8f63e239313b",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Add another pen lot verify using Headcount.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "34600273-ea25-4258-a6d9-6b332aade4bb",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Add another pen lot using Tags and confirm shipment.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
         "testCaseId": "db08728f-9948-4b47-8ec0-647450b591b1",
         "testCaseType": "TestCase",
-        "fileName": "Movement\\Shipping\\Shipping-Shipping with Lot - Copy (1).xaml"
+        "fileName": "Movement\\Shipping-Shipping with Lot - No Headcount.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d7cad06a-98c6-4181-81af-112242d81ea5",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Movement\\Shipping\\Shipping-Pen automatically selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0456344a-5c76-4d05-903c-8befd4e4c25e",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Movement\\Shipping\\Shipping-Lot automatically selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5e1e3f33-0f89-42d7-9e98-4bd7dda42b81",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Add another pen lot Headcount greater then current hd.xaml"
       }
     ],
     "modernBehavior": true

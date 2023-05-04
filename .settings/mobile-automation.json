@@ -11,7 +11,9 @@
       "DeviceName": "KZX8YDRG854XRCXW",
       "SingleInstance": null,
       "WaitForPageUpdate": true,
-      "Capabilities": {},
+      "Capabilities": {
+        "newCommandTimeout": "0"
+      },
       "GeoLocation": null,
       "LoggingModel": {
         "LoggingEnabled": false,
@@ -71,8 +73,7 @@
       "Platforms": {
         "Android": {
           "Capabilities": {
-            "noReset": "False",
-            "app": "C:\\Users\\Anupma Kumari\\Downloads\\app-1.0-internal-debug (3).apk"
+            "app": "C:\\Users\\Anupma Kumari\\Downloads\\ahi-movements-android-1.0.221-internal-debug.apk"
           },
           "StartPage": null
         }

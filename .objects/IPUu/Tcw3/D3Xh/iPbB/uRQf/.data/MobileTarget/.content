@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="d88GTa-hzUiSJn2ZLcLLrQ" DesignTimeRectangle="182, 84, 86, 37" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.CheckedTextView' id='android:id/text1' text='MOCK' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.CheckedTextView' id='android:id/text1' text='MOCK' accessibilityId='' check:text='MOCK' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="MOCK" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0RQJBtuuoO0S8K4_lgKx8RA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="11a2cb2044f35bb3375b94339ea52e84.png" xmlns="">0_7S3tnyD1k-IrKU0JXFpyw</imageRef>
+</Target>

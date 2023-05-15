@@ -149,12 +149,6 @@
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "520f7901-4536-44fd-9360-e3111e093dc9",
-        "testCaseType": "TestCase",
-        "fileName": "Movement\\Receive\\Receive New Animal-Create new lot.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
         "testCaseId": "5bc53620-dc07-4fe9-85cf-cdd5571c17f0",
         "testCaseType": "TestCase",
         "fileName": "Movement\\Receive\\Recieve New Animal- Successfully received new animal.xaml"
@@ -167,21 +161,9 @@
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "fcce2fee-61e5-4383-848c-9d6a8874dfdb",
-        "testCaseType": "TestCase",
-        "fileName": "Movement\\Lot transfer\\Lot-Successfull lot transfer.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
         "testCaseId": "986a84c5-e046-49c4-b6ee-5a578adc1300",
         "testCaseType": "TestCase",
         "fileName": "Movement\\Pen Movement\\Pen Movement- Select all tags.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "c57f11ea-1ee0-4634-b4b0-23a56feb59b3",
-        "testCaseType": "TestCase",
-        "fileName": "Movement\\Lot transfer\\Lot Transfer-Select Tags.xaml"
       },
       {
         "editingStatus": "InProgress",
@@ -212,12 +194,6 @@
         "testCaseId": "3ac2a6f5-63c6-4439-b1ec-ee8479e3a4b1",
         "testCaseType": "TestCase",
         "fileName": "Movement\\Lot transfer\\Lot Transfer-Select Tags with pen.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "937f0a61-e482-4bbd-9722-2d70fabe1d03",
-        "testCaseType": "TestCase",
-        "fileName": "Movement\\Receive\\lot is present.xaml"
       },
       {
         "editingStatus": "InProgress",
@@ -281,12 +257,6 @@
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "10fb8b21-9c32-4dfa-8b4c-8f63e239313b",
-        "testCaseType": "TestCase",
-        "fileName": "Movement\\Shipping\\Shipping-Add another pen lot verify using Headcount.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
         "testCaseId": "34600273-ea25-4258-a6d9-6b332aade4bb",
         "testCaseType": "TestCase",
         "fileName": "Movement\\Shipping\\Shipping-Add another pen lot using Tags and confirm shipment.xaml"
@@ -301,14 +271,12 @@
         "editingStatus": "InProgress",
         "testCaseId": "d7cad06a-98c6-4181-81af-112242d81ea5",
         "testCaseType": "TestCase",
-        "executionTemplateInvokeIsolated": false,
         "fileName": "Movement\\Shipping\\Shipping-Pen automatically selected.xaml"
       },
       {
         "editingStatus": "InProgress",
         "testCaseId": "0456344a-5c76-4d05-903c-8befd4e4c25e",
         "testCaseType": "TestCase",
-        "executionTemplateInvokeIsolated": false,
         "fileName": "Movement\\Shipping\\Shipping-Lot automatically selected.xaml"
       },
       {
@@ -316,6 +284,60 @@
         "testCaseId": "5e1e3f33-0f89-42d7-9e98-4bd7dda42b81",
         "testCaseType": "TestCase",
         "fileName": "Movement\\Shipping\\Shipping-Add another pen lot Headcount greater then current hd.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "a93941c1-a864-46ba-a9ba-7680584791bd",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Shipping with Lot - Headcount is equal to current Headcount.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "c40b8451-6440-4323-99a4-884b084dc397",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Add another pen lot ,pen automatically selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "9b0fbee5-d3e5-4a29-83a3-38526feb789d",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Pen Movement\\Pen Movement- Move animal from one pen to another,Headcount is equal to current headcount.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "fff79eb0-8fc8-44d1-8c1d-daf8cd47e7c9",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Current date automatically selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "cd8b4bff-45e5-4921-81c5-6170d5f0a69e",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Current date automatically selected - Copy (1).xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "10fb8b21-9c32-4dfa-8b4c-8f63e239313b",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Add another pen lot verify lot using Headcount.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "c57f11ea-1ee0-4634-b4b0-23a56feb59b3",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Lot transfer\\Lot Transfer-Select Tags with lot.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "937f0a61-e482-4bbd-9722-2d70fabe1d03",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\Receive new animals- The value entered to create new lot already exists.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "520f7901-4536-44fd-9360-e3111e093dc9",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\Receive New Animal-Create new lot,Successfully received new animal.xaml"
       }
     ],
     "modernBehavior": true

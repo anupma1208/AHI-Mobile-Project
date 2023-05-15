@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="IJQ6h5x5LkerjPCUj-ZDXw" DesignTimeRectangle="182, 84, 166, 24" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.ScrollView' /&gt;&lt;mbl android:className='android.widget.Spinner' idx='1' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.ScrollView' id='com.ahi.movements.internal.debug:id/debug_drawer' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.Spinner' id='com.ahi.movements.internal.debug:id/debug_network_endpoint' accessibilityId='' text='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="82, 84, 84, 26" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Endpoint">
+        <imageRef attrName="ImageBase64" xmlns="">1zPc1i2TtaUK7_berl5KyzA</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_7w8znUrRUehhyg8X32zVg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="111bbab2e2e86af500b469f28c82521d.png" xmlns="">0ebc8C7ApCUiRpO0aORMwyA</imageRef>
+</Target>

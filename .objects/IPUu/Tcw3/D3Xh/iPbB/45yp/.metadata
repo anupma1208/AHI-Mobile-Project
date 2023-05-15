@@ -1,0 +1,14 @@
+﻿{
+  "Id": "45yp_n7BVkWQUZLikpO1eg",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/45yp_n7BVkWQUZLikpO1eg",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/iPbB8IQFekGRnOweqDxAtA",
+  "Name": "Ok",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-05-15T08:01:47.6927374Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-15T08:01:47.6927374Z"
+}

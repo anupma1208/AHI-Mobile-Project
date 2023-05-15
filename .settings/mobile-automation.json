@@ -12,7 +12,7 @@
       "SingleInstance": null,
       "WaitForPageUpdate": true,
       "Capabilities": {
-        "newCommandTimeout": "0"
+        "newCommandTimeout": "40"
       },
       "GeoLocation": null,
       "LoggingModel": {

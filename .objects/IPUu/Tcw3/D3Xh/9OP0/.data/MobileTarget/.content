@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="mVJLTvS7pEm9Qel0tGBjYA" DesignTimeRectangle="320, 31, 40, 48" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.ImageView' accessibilityId='More options' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.ImageView' accessibilityId='More options' id='' text='' check:text='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="16, 42, 129, 27" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Jwallace Test">
+        <imageRef attrName="ImageBase64" xmlns="">1yAAws_HMQUW7V0dB8Sk5Qw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0l0mAOU5wmUGjD9-Ni0opNA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="98b67cd423b713d2ee27d9d2c2df3ec6.png" xmlns="">0mBYqBpt3sUKRZeyGepCOjA</imageRef>
+</Target>

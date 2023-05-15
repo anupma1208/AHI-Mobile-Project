@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="6h8KV029hUOIhx9A3cTaGw" DesignTimeRectangle="8, 207, 162, 49" FriendlyName="Tap" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Image" TargetType="ImageBased" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">055kT-_eY20emefyTbkzqsg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9b45f94d17a6f966a36cf8021bfd212b.png" xmlns="">0_72EOZmm00CyTHdijeahkg</imageRef>
+</Target>

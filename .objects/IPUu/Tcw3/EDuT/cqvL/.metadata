@@ -1,0 +1,14 @@
+﻿{
+  "Id": "cqvLy8EGDEGy0P05408Elg",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/cqvLy8EGDEGy0P05408Elg",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/EDuTfkxeKEyZ1VaGlt0p-A",
+  "Name": "Add another pen/lot",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-15T07:58:16.7844847Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-15T07:58:16.7844847Z"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="LTyz_9mCWEe9o6qMH3L4tQ" DesignTimeRectangle="181, 202, 174, 56" FriendlyName="Tap" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Image" TargetType="ImageBased" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="53, 37, 161, 36" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Image" TargetType="ImageBased">
+        <imageRef attrName="ImageBase64" xmlns="">1rJ99AH2PPUa4NB9FaLv6ug</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0WCQI_iqC4EGrQc3t5wgc4w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="409cfedcdc50a87a08a4427607ef3909.png" xmlns="">0pPShVPuYxkeFEVpZQPXQHA</imageRef>
+</Target>

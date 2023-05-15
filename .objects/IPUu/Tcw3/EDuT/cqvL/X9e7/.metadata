@@ -1,0 +1,14 @@
+﻿{
+  "Id": "X9e7SPO-_0ebzcloFq-O6w",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/X9e7SPO-_0ebzcloFq-O6w",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/cqvLy8EGDEGy0P05408Elg",
+  "Name": "Pen",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-15T08:16:18.6754375Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-15T08:16:18.6754375Z"
+}

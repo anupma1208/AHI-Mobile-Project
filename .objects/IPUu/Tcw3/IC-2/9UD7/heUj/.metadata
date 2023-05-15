@@ -1,0 +1,14 @@
+﻿{
+  "Id": "heUj_B8ObEC3JSHF9EwBLw",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/heUj_B8ObEC3JSHF9EwBLw",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/9UD7aMB5C0av5qZDMiU-kA",
+  "Name": "Tag",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-15T08:57:25.5887737Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-15T08:57:25.5887737Z"
+}

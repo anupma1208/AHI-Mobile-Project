@@ -1,0 +1,14 @@
+﻿{
+  "Id": "tcHmiTl4TECww-bta-eXAg",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/tcHmiTl4TECww-bta-eXAg",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/IC-2KbkTEkO_dnQEjulQ3A",
+  "Name": "Lot",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2023-05-15T08:35:14.1800655Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-15T08:35:14.1800655Z"
+}

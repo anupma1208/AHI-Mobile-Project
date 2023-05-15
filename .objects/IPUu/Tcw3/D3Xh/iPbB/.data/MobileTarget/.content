@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="QdHinqbHCEWnWpLoDUdcfQ" DesignTimeRectangle="176, 197, 164, 21" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='Log Out' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='Log Out' id='com.ahi.movements.internal.debug:id/title' accessibilityId='' check:text='Log Out' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Log Out" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="176, 149, 164, 21" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Privacy Policy">
+        <imageRef attrName="ImageBase64" xmlns="">1P2_sJwaR9EKj3hGidmaPPg</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0B8_DSQTUA06MVggmCOXG1w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b47542a1fe78f72d92145cee24c54426.png" xmlns="">0x7HvWlcOxEGB7iy83DlQ_g</imageRef>
+</Target>

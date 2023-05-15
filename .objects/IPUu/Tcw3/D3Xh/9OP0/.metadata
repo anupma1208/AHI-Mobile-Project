@@ -1,0 +1,14 @@
+﻿{
+  "Id": "9OP02iShPEKNDJJkfdTSGQ",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/9OP02iShPEKNDJJkfdTSGQ",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/D3Xh94HYFkGIMA-BG95mIw",
+  "Name": "3sots",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-15T08:01:23.7083131Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-15T08:01:23.7083131Z"
+}

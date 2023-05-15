@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Qs3pAJ16mUeheWAswaZpjw",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/Qs3pAJ16mUeheWAswaZpjw",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/cqvLy8EGDEGy0P05408Elg",
+  "Name": "Headcount",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2023-05-15T08:00:32.3052486Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-15T08:00:32.3052486Z"
+}

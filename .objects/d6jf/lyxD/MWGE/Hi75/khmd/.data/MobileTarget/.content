@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="zeHIJLxykkGhalVDwubypg" DesignTimeRectangle="312, 31, 48, 48" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.TextView' accessibilityId='Search' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' accessibilityId='Search' id='com.ahi.penrider.internal:id/action_search' text='' check:text='' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="72, 42, 94, 27" FullSelector="&lt;mbl android:className='android.widget.TextView' text='Select Pen' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='Select Pen' id='' accessibilityId='' check:text='Select Pen' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Select Pen">
+        <imageRef attrName="ImageBase64" xmlns="">1kcT7SDoOZ0up1xKy303K8w</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0tRO4JH51U0SmCxtMPccuKw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="fe2e97f8321ded81f65b6301d6908866.png" xmlns="">09X1VI-qJNUqqLk1cZnMf9A</imageRef>
+</Target>

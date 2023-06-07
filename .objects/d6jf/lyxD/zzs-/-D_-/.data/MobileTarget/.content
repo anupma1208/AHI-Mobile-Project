@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="6VPxZrXb7ky2zbLMidT10w" DesignTimeRectangle="72, 27, 288, 56" FriendlyName="Set Text" FullSelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_search' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_search' accessibilityId='' text='Search…' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Search…" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="0, 27, 56, 56" FullSelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/tb_search' /&gt;&#xA;&lt;mbl android:className='android.widget.ImageButton' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/tb_search' accessibilityId='' text='' /&gt;&#xA;&lt;mbl android:className='android.widget.ImageButton' id='' accessibilityId='' text='' check:text='' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="">
+        <imageRef attrName="ImageBase64" xmlns="">1j2NI79zhikWzFsa8uz85jw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Urx9lWtxqk-d6S-xnTMURg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c5057b1e29505db9a0191b394629529f.png" xmlns="">0_f4hyo5ZTU-qtYFm7_xxRA</imageRef>
+</Target>

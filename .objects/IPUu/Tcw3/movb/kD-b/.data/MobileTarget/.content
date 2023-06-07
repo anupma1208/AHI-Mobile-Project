@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="X8uhMv2LK0KaRE0kXRrwag" DesignTimeRectangle="30, 287, 134, 21" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='PEN MOVEMENTS' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='PEN MOVEMENTS' id='com.ahi.movements.internal.debug:id/tv_manage_deads_title' accessibilityId='' check:text='PEN MOVEMENTS' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="PEN MOVEMENTS" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="30, 316, 131, 19" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Pen-only movements">
+        <imageRef attrName="ImageBase64" xmlns="">1V5_KftaFkECnAWiQoRDOZA</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0Nj4Vu70qkEWtYDPlHOiL8Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="5ef34334083489855733e0add871b830.png" xmlns="">0qbNr-ar8D0iWraWYMHKaVA</imageRef>
+</Target>

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "khmduwz3Q0OTlVxAA-C1qA",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/khmduwz3Q0OTlVxAA-C1qA",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/Hi75ayt36E6_MEcaBxYF0w",
+  "Name": "3 dot",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-22T09:31:03.3056819Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=22.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-22T09:31:03.3056819Z"
+}

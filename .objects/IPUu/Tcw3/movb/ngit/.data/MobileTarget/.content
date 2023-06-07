@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="W6S3pvz5EEiIr81BeK6u1Q" DesignTimeRectangle="8, 202, 164, 60" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='androidx.recyclerview.widget.RecyclerView' /&gt;&lt;mbl android:className='android.widget.EditText' idx='1' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='androidx.recyclerview.widget.RecyclerView' id='com.ahi.movements.internal.debug:id/rv_pen_movements' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.EditText' id='com.ahi.movements.internal.debug:id/et_input' accessibilityId='' text='Pen*' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Pen*" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="180, 202, 172, 60" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Lot*">
+        <imageRef attrName="ImageBase64" xmlns="">4IcquW2snWE-Iacxp4MhpsA</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">03by0cjNIKkKzrO2dwCkrsw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="70ebc171ef1750f963d6dc38e9e0c661.png" xmlns="">0MQ63MHYAT0SvTg4DJ_C9DA</imageRef>
+</Target>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="bFV-PQi7N0ueGNzli17mXw" DesignTimeRectangle="82, 688, 92, 36" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.Button' text='SPECIAL PENS' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.Button' text='SPECIAL PENS' id='com.ahi.penrider.internal:id/btn_special_pens' accessibilityId='' check:text='SPECIAL PENS' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="SPECIAL PENS" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="175, 692, 92, 32" FullSelector="&lt;mbl android:className='android.widget.Button' id='com.ahi.penrider.internal:id/btn_pens' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.Button' id='com.ahi.penrider.internal:id/btn_pens' accessibilityId='' text='PENS' check:text='PENS' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="PENS">
+        <imageRef attrName="ImageBase64" xmlns="">1aLFpxQyEGUS0_m64KsCttg</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_xUcTFcnbUK9w3gAq8twjA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7e094b1de22dbe53fd36771a0c2ea2b5.png" xmlns="">0_M7oVX-AY026_vdU3gqO7Q</imageRef>
+</Target>

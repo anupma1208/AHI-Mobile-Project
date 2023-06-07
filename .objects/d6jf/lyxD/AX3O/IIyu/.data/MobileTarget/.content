@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="JZBzBtad6UOff0llbR9z6g" DesignTimeRectangle="30, 308, 122, 21" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.TextView' text='MANAGE DEADS' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.TextView' text='MANAGE DEADS' id='com.ahi.penrider.internal:id/tv_manage_deads_title' accessibilityId='' check:text='MANAGE DEADS' /&gt;" Occurence="0" Reference="jcxlhVDB40ywyiXxJ3Vzgg/IgnRWcGGK0WRgtWq1k4x6w" SearchSteps="Selector, FuzzySelector, Image" Text="MANAGE DEADS" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="0, 280, 360, 133" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="">
+        <imageRef attrName="ImageBase64" xmlns="">1fWCENJfmrkCrewmpdFROyQ</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0yDp2yoGUPkmk7GZ5NTc28w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a943c1c44d58e5c8b23a82f97a215814.png" xmlns="">0KQuKB5nynEyMGxIIgsl9NA</imageRef>
+</Target>

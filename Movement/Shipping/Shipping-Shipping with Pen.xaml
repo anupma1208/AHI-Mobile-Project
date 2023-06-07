@@ -113,7 +113,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <cr:CreateReports sap:VirtualizedContainerService.HintSize="952,24.8" IN_ReportLocation="C:\Users\Anupma Kumari\Documents\Uipath\AHI Mobile Project\Reports" sap2010:WorkflowViewState.IdRef="CreateReports_1" ReportName="hiping" />
+            <cr:CreateReports sap:VirtualizedContainerService.HintSize="952,24.8" IN_ReportLocation="C:\Users\Anupma Kumari\Documents\Uipath\AHI Mobile Project\Reports" sap2010:WorkflowViewState.IdRef="CreateReports_1" ReportName="Shipping" />
             <cr:StartSuite sap:VirtualizedContainerService.HintSize="952,24.8" sap2010:WorkflowViewState.IdRef="StartSuite_1" start_suite="Shipping with Pen" />
             <cr:StartTest sap:VirtualizedContainerService.HintSize="952,24.8" sap2010:WorkflowViewState.IdRef="StartTest_1" start_test="Shipping with Pen" />
             <uma:Swipe DelayAfter="{x:Null}" DelayBefore="{x:Null}" Timeout="{x:Null}" sap:VirtualizedContainerService.HintSize="952,116.8" sap2010:WorkflowViewState.IdRef="Swipe_1" MaxNumberOfSwipes="1" RequiresInitialization="False" SwipeDirection="Right">

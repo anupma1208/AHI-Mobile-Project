@@ -1,0 +1,14 @@
+﻿{
+  "Id": "vcai6OVB4UiiV1thZcyVRQ",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/vcai6OVB4UiiV1thZcyVRQ",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/AX3OEK9pD0mhCShL39ohEQ",
+  "Name": "Date",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-05-22T09:31:03.0388328Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=22.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-22T09:31:03.0388328Z"
+}

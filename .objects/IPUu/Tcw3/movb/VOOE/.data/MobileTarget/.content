@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="48HfXLwux0af50ntqY3bgQ" DesignTimeRectangle="0, 418, 360, 48" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='android.widget.Button' text='MOVE' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='android.widget.Button' text='MOVE' id='com.ahi.movements.internal.debug:id/btn_move' accessibilityId='' check:text='MOVE' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="MOVE" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="16, 380, 171, 21" FuzzyAccuracy="0.5" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="NEW PEN HEADCOUNT:">
+        <imageRef attrName="ImageBase64" xmlns="">1ESvTabDsTUC35I32ozHD3Q</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0xNcfP2XQXka-cPolDswmMw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9faf4fea6711a52a069269262f722f44.png" xmlns="">07pWiPtUjMUCNRDsfu4sfBA</imageRef>
+</Target>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="l5DsZhp8O0Gip-TFeO-9wA" DesignTimeRectangle="180, 379, 156, 42" FriendlyName="Set Text" FullSelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/container' /&gt;&lt;mbl android:className='android.widget.EditText' idx='7' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/container' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_reference' accessibilityId='' text='Reference #' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Reference #" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="213, 421, 131, 44" FullSelector="&lt;mbl android:className='android.widget.Button' text='POST DEAD ANIMAL' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.Button' text='POST DEAD ANIMAL' id='com.ahi.penrider.internal:id/btn_post_dead_animal' accessibilityId='' check:text='POST DEAD ANIMAL' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="POST DEAD ANIMAL">
+        <imageRef attrName="ImageBase64" xmlns="">1CyH7QRzUjkqL0BJwVHIogw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0GQbQR394DUS33B6oqzLWIA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8f3aa8881b1afaee6ec71471a8f4fe82.png" xmlns="">0_4LdSg-8A0GB_zvFYJPGOw</imageRef>
+</Target>

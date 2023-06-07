@@ -1,0 +1,14 @@
+﻿{
+  "Id": "IIyufFAaAEWpWmHDqjtPuA",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/IIyufFAaAEWpWmHDqjtPuA",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/AX3OEK9pD0mhCShL39ohEQ",
+  "Name": "Manage deads",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-22T09:34:03.6898965Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-22T09:34:03.6898965Z"
+}

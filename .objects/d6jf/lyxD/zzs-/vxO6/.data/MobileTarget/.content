@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="3IM0u-_HMkG-ZXaID61ynA" DesignTimeRectangle="30, 575, 130, 21" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.TextView' text='ANIMAL LOOK-UP' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='ANIMAL LOOK-UP' id='com.ahi.penrider.internal:id/tv_animal_lookup_title' accessibilityId='' check:text='ANIMAL LOOK-UP' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="ANIMAL LOOK-UP" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="2">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="30, 604, 133, 19" FullSelector="&lt;mbl android:className='android.widget.TextView' text='Find animal by Tag ID' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='Find animal by Tag ID' id='' accessibilityId='' check:text='Find animal by Tag ID' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Find animal by Tag ID">
+        <imageRef attrName="ImageBase64" xmlns="">1WvT1K4bUT0y3Fh_Rhf7MlQ</imageRef>
+      </BaseTarget>
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="0, 414, 360, 133" FullSelector="&lt;mbl android:className='android.widget.FrameLayout' id='android:id/content' /&gt;&#xA;&lt;mbl android:className='android.view.ViewGroup' idx='5' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.FrameLayout' id='android:id/content' accessibilityId='' text='' /&gt;&#xA;&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/layout_view_treatments' accessibilityId='' text='' check:text='' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="">
+        <imageRef attrName="ImageBase64" xmlns="">2jqb7UL6y-U2vVCJARndJ3g</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0ErHFMyR9r0m1jzh5GOx7Sg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="08c1da6a1d09eb8a6ba1c113c44eb31d.png" xmlns="">0CULD8Pb3yUmUZsoQFJeHZg</imageRef>
+</Target>

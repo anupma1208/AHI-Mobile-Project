@@ -1,0 +1,14 @@
+﻿{
+  "Id": "6vcGFQ80yk2_dJ2v0uYfkw",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/6vcGFQ80yk2_dJ2v0uYfkw",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/AX3OEK9pD0mhCShL39ohEQ",
+  "Name": "Post dead animal",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-05-22T09:31:03.1294585Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=22.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-22T09:31:03.1294585Z"
+}

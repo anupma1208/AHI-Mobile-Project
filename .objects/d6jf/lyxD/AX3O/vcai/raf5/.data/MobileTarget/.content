@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="iab0qgC8RUm3oD7lBw3kIQ" DesignTimeRectangle="245, 567, 64, 40" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.Button' id='com.ahi.penrider.internal:id/mdtp_ok' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.Button' id='com.ahi.penrider.internal:id/mdtp_ok' accessibilityId='' text='OK' check:text='OK' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="OK" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="168, 567, 69, 40" FullSelector="&lt;mbl android:className='android.widget.Button' text='CANCEL' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.Button' text='CANCEL' id='com.ahi.penrider.internal:id/mdtp_cancel' accessibilityId='' check:text='CANCEL' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="CANCEL">
+        <imageRef attrName="ImageBase64" xmlns="">1gzoHjYtyOUG4a80JvtUFSw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0F650NqtkW0u1-to94mwq6Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6aa4b6262f983e6c94a97133fbc531d2.png" xmlns="">0iaqAmoOeSE-y6ickLTMr6g</imageRef>
+</Target>

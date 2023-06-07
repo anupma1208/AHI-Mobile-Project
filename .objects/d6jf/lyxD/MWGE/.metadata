@@ -1,0 +1,12 @@
+﻿{
+  "Id": "MWGEmr4GK0q4rvesuNSZtg",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/MWGEmr4GK0q4rvesuNSZtg",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/lyxD7tl_yUW2N_BHs_rojg",
+  "Name": "pen,lot,select lot",
+  "Type": "Screen",
+  "Created": "2023-05-22T09:31:03.1962297Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-22T09:31:03.1962297Z"
+}

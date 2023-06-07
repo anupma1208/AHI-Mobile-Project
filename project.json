@@ -143,12 +143,6 @@
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "be5b7f5c-87f4-4a8b-929b-e874ceeda247",
-        "testCaseType": "TestCase",
-        "fileName": "Movement\\Receive\\Receive New Animal- Pen and weight Automatically Selected.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
         "testCaseId": "5bc53620-dc07-4fe9-85cf-cdd5571c17f0",
         "testCaseType": "TestCase",
         "fileName": "Movement\\Receive\\Recieve New Animal- Successfully received new animal.xaml"
@@ -224,12 +218,6 @@
         "testCaseId": "3257486e-3cd2-439e-828c-e4bf93f3a09a",
         "testCaseType": "TestCase",
         "fileName": "Movement\\Shipping\\Shipping-Shipping with Pen.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "4caa33bf-82a1-4025-9196-123b1b9d878f",
-        "testCaseType": "TestCase",
-        "fileName": "Movement\\Shipping\\Shipping-Shipping with select all Tag.xaml"
       },
       {
         "editingStatus": "InProgress",
@@ -311,12 +299,6 @@
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "cd8b4bff-45e5-4921-81c5-6170d5f0a69e",
-        "testCaseType": "TestCase",
-        "fileName": "Movement\\Shipping\\Shipping-Current date automatically selected - Copy (1).xaml"
-      },
-      {
-        "editingStatus": "InProgress",
         "testCaseId": "10fb8b21-9c32-4dfa-8b4c-8f63e239313b",
         "testCaseType": "TestCase",
         "fileName": "Movement\\Shipping\\Shipping-Add another pen lot verify lot using Headcount.xaml"
@@ -338,6 +320,74 @@
         "testCaseId": "520f7901-4536-44fd-9360-e3111e093dc9",
         "testCaseType": "TestCase",
         "fileName": "Movement\\Receive\\Receive New Animal-Create new lot,Successfully received new animal.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "cd8b4bff-45e5-4921-81c5-6170d5f0a69e",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Average weight automatically selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "9d21405e-92c1-4969-b03e-7859b1d8c090",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Movement\\Lot transfer\\Lot Transfer- No Headcount.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "ed452912-1880-4a67-8324-8350239d13ad",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Movement\\Pen Movement\\Pen Movement-Search the tag.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "be5b7f5c-87f4-4a8b-929b-e874ceeda247",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\Receive New Animal- Pen Automatically Selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "ee9e9c75-6570-42a8-a9f7-a743f5c3a66c",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Receive\\Receive New Animal-Average wait automatically selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "28925064-121d-45a0-a20b-5c556ef01dcd",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Shipping with Pen - Headcount is greater then current hd.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "4caa33bf-82a1-4025-9196-123b1b9d878f",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Shipping with lot,using select all tag.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "1ad992ed-83b8-43f9-aee8-6cc438e0b8bb",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Shipping -No headcount.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f6f7c1d7-5e38-4037-8e16-29a7bfbbdd6d",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-No Tag Selected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "07c61969-bd40-4728-a419-36e749ffe05b",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Add another pen lot using Tags then remove.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "30a7fd66-2fa9-4784-ac3e-660e112f5f9f",
+        "testCaseType": "TestCase",
+        "fileName": "Movement\\Shipping\\Shipping-Add another pen lot and remove using Headcount.xaml"
       }
     ],
     "modernBehavior": true

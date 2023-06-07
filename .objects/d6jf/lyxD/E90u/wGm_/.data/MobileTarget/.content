@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="9s8kVn6n0U2QRjUV1LNwgQ" DesignTimeRectangle="320, 31, 40, 48" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.ImageView' accessibilityId='More options' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.ImageView' accessibilityId='More options' id='' text='' check:text='' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="16, 42, 76, 27" FullSelector="&lt;mbl android:className='android.widget.TextView' text='My Sites' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='My Sites' id='' accessibilityId='' check:text='My Sites' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="My Sites">
+        <imageRef attrName="ImageBase64" xmlns="">18IIDrnX0H0-dRWDDx_KSKA</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0F2qLV_eSc0Okc4MTKFYf4w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9c74c05257b2b0ff02be96b57742082b.png" xmlns="">0ETtt2CC68Uad2LlEKdsgnw</imageRef>
+</Target>

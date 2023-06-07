@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="gvsFyQaGVkGBzpsXVeMvmQ" DesignTimeRectangle="30, 308, 122, 21" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.TextView' text='MANAGE DEADS' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.TextView' text='MANAGE DEADS' id='com.ahi.penrider.internal:id/tv_manage_deads_title' accessibilityId='' check:text='MANAGE DEADS' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="MANAGE DEADS" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="0, 280, 360, 133" FullSelector="&lt;mbl android:className='android.widget.FrameLayout' id='android:id/content' /&gt;&#xA;&lt;mbl android:className='android.view.ViewGroup' idx='4' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.FrameLayout' id='android:id/content' accessibilityId='' text='' /&gt;&#xA;&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/layout_manage_deads' accessibilityId='' text='' check:text='' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="">
+        <imageRef attrName="ImageBase64" xmlns="">1baDeOuRtl0SL6k-GIRokkA</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0jyQNUfQ6k0yRc0Z0w4KGXA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a943c1c44d58e5c8b23a82f97a215814.png" xmlns="">0APSzOFd63Eab3gC5epp6dg</imageRef>
+</Target>

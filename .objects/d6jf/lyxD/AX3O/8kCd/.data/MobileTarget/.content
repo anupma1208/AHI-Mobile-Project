@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="9mHyzzzrNEOK_bxS7pt7tA" DesignTimeRectangle="24, 417, 312, 42" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/container' /&gt;&lt;mbl android:className='android.widget.EditText' idx='6' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/container' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_death_code' accessibilityId='' text='Death Code' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Death Code" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="0, 27, 360, 56" FullSelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/toolbar' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/toolbar' accessibilityId='' text='' check:text='' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="">
+        <imageRef attrName="ImageBase64" xmlns="">1Zc84A0cFvk-dACut_OTonw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0uqm0xmPQSUa-iQ3EtWIWxA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3b2fd8b9a10143eced81003308a56167.png" xmlns="">0p1TJlSc0s0GcN0v6wlvlPw</imageRef>
+</Target>

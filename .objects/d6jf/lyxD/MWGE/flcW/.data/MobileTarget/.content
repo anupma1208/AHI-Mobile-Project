@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="dbtGLSUc-U-H9_-247ScIg" DesignTimeRectangle="267, 692, 92, 32" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.widget.Button' id='com.ahi.penrider.internal:id/btn_lots' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.Button' id='com.ahi.penrider.internal:id/btn_lots' accessibilityId='' text='LOTS' check:text='LOTS' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="LOTS" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0ifXsGurqcEOnldOxGY1p3g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="817c54207360ed47cce999bcd24bde8c.png" xmlns="">07xLceo4wzEquh3eA-ISV5g</imageRef>
+</Target>

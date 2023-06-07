@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="hGuxmd1t2UC2ELHdCXa5hw" DesignTimeRectangle="24, 312, 312, 42" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/container' /&gt;&lt;mbl android:className='android.widget.EditText' idx='5' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/container' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_death_pen' accessibilityId='' text='Death Pen' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Death Pen" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0jAVUwd3evEenVEoI5wDHow</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="adc27110f49b6b128ccdf35b98a906fa.png" xmlns="">07iWk5VZbo0qYq3IqRjnlvg</imageRef>
+</Target>

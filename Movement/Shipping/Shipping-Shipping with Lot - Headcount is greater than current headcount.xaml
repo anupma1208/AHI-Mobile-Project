@@ -119,7 +119,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <cr:CreateReports sap:VirtualizedContainerService.HintSize="952,24.8" IN_ReportLocation="C:\Users\Anupma Kumari\Documents\Uipath\AHI Mobile Project\Reports" sap2010:WorkflowViewState.IdRef="CreateReports_1" ReportName="Movement" />
+            <cr:CreateReports sap:VirtualizedContainerService.HintSize="952,24.8" IN_ReportLocation="C:\Users\Anupma Kumari\Documents\Uipath\AHI Mobile Project\Reports" sap2010:WorkflowViewState.IdRef="CreateReports_1" ReportName="Shipping" />
             <cr:StartSuite sap:VirtualizedContainerService.HintSize="952,24.8" sap2010:WorkflowViewState.IdRef="StartSuite_1" start_suite="Headcount is greater than current headcount" />
             <cr:StartTest sap:VirtualizedContainerService.HintSize="952,24.8" sap2010:WorkflowViewState.IdRef="StartTest_1" start_test="Headcount is greater than current headcount" />
             <uma:Swipe DelayAfter="{x:Null}" DelayBefore="{x:Null}" Timeout="{x:Null}" sap:VirtualizedContainerService.HintSize="952,116.8" sap2010:WorkflowViewState.IdRef="Swipe_1" MaxNumberOfSwipes="1" RequiresInitialization="False" SwipeDirection="Right">
@@ -276,25 +276,25 @@
               </uma:Tap.Target>
             </uma:Tap>
             <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="952,24.8" sap2010:WorkflowViewState.IdRef="StepStatusPass_11" In_Description="Click confirm shipment" In_StepName="Confirm Shipment" />
-            <uix:NCheckState DisplayName="Check App State 'uipath.mobileautomation…'" sap:VirtualizedContainerService.HintSize="952,358.4" sap2010:WorkflowViewState.IdRef="NCheckState_3" Version="V3">
+            <uix:NCheckState DisplayName="Check App State 'uipath.mobileautomation…'" sap:VirtualizedContainerService.HintSize="952,358.4" sap2010:WorkflowViewState.IdRef="NCheckState_4" Version="V3">
               <uix:NCheckState.IfExists>
-                <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="449.6,140" sap2010:WorkflowViewState.IdRef="Sequence_7">
+                <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="449.6,140" sap2010:WorkflowViewState.IdRef="Sequence_9">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <cr:StepStatusFail sap:VirtualizedContainerService.HintSize="387.2,24.8" sap2010:WorkflowViewState.IdRef="StepStatusFail_3" In_Description="Tescase Fail" In_StepName="Shipping incomplete" />
+                  <cr:StepStatusFail sap:VirtualizedContainerService.HintSize="387.2,24.8" sap2010:WorkflowViewState.IdRef="StepStatusFail_4" In_Description="Testcase fail" In_StepName="Fail" />
                 </Sequence>
               </uix:NCheckState.IfExists>
               <uix:NCheckState.IfNotExists>
-                <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="449.6,140" sap2010:WorkflowViewState.IdRef="Sequence_8">
+                <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="449.6,140" sap2010:WorkflowViewState.IdRef="Sequence_10">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="387.2,24.8" sap2010:WorkflowViewState.IdRef="StepStatusPass_13" In_Description="Test Case pass" In_StepName="Shipping Complete" />
+                  <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="387.2,24.8" sap2010:WorkflowViewState.IdRef="StepStatusPass_14" In_Description="Testcase passed" In_StepName="Pass" />
                 </Sequence>
               </uix:NCheckState.IfNotExists>
               <uix:NCheckState.Target>

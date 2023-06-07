@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="QyvoZcG_90SVNs1hTYTpdw" DesignTimeRectangle="8, 554, 162, 61" FriendlyName="Tap" FullSelectorArgument="&lt;mbl android:className='androidx.recyclerview.widget.RecyclerView' /&gt;&lt;mbl android:className='android.widget.EditText' idx='7' /&gt;" FuzzyAccuracy="0.5" FuzzySelectorArgument="&lt;mbl android:className='androidx.recyclerview.widget.RecyclerView' id='com.ahi.movements.internal.debug:id/rv_pen_movements' accessibilityId='' text='' /&gt;&lt;mbl android:className='android.widget.EditText' id='com.ahi.movements.internal.debug:id/et_input' accessibilityId='' text='Pen*' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Pen*" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0hgxkFkWgAEqDiIncSq88UA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="18429b1507345ca3badc6d65709fbe37.png" xmlns="">0g-BW7sZr-EiiFq54aQl9dw</imageRef>
+</Target>

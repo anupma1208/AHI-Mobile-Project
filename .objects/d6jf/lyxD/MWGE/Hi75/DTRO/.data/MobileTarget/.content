@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="QQXzPDfmNkO0vYBf7iu-Cw" DesignTimeRectangle="72, 27, 288, 56" FriendlyName="Set Text" FullSelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_search' /&gt;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_search' accessibilityId='' text='Search…' /&gt;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Search…" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:umct="clr-namespace:UiPath.MobileAutomation.Contracts.Target;assembly=UiPath.MobileAutomation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Target.Anchors>
+    <scg:List x:TypeArguments="umct:IBaseTarget" Capacity="1">
+      <BaseTarget Accuracy="0.8" DesignTimeRectangle="80, 95, 200, 40" FullSelector="&lt;mbl android:className='android.widget.Button' text='Location Services: Off' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.widget.Button' text='Location Services: Off' id='com.ahi.penrider.internal:id/btn_location_services' accessibilityId='' check:text='Location Services: Off' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Location Services: Off">
+        <imageRef attrName="ImageBase64" xmlns="">1Er4INfB-0UmLggH9R7c5xw</imageRef>
+      </BaseTarget>
+    </scg:List>
+  </Target.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0nyoZD3VNa0GlpQ5EvDva5A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7256d6949793f08669681686da2201b1.png" xmlns="">07ttbk7oF2EatqwP6jgotxQ</imageRef>
+</Target>

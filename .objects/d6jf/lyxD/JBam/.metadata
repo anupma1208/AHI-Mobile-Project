@@ -1,0 +1,12 @@
+﻿{
+  "Id": "JBamj01SSESfGIrpInLH4g",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/JBamj01SSESfGIrpInLH4g",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/lyxD7tl_yUW2N_BHs_rojg",
+  "Name": "Add new traetment",
+  "Type": "Screen",
+  "Created": "2023-05-22T09:31:02.7241315Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-22T09:31:02.7241315Z"
+}

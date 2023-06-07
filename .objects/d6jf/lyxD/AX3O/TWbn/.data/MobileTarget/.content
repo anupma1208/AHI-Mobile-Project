@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Target Accuracy="0.8" ContentHash="VEt8H5heIUe48-AyuTrqyA" DesignTimeRectangle="24, 259, 312, 42" FriendlyName="Tap" FullSelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/container' /&gt;&#xA;&lt;mbl android:className='android.widget.EditText' idx='4' /&gt;&#xA;" FuzzyAccuracy="0.5" FuzzySelector="&lt;mbl android:className='android.view.ViewGroup' id='com.ahi.penrider.internal:id/container' accessibilityId='' text='' /&gt;&#xA;&lt;mbl android:className='android.widget.EditText' id='com.ahi.penrider.internal:id/et_home_pen' accessibilityId='' text='Home Pen' /&gt;&#xA;" Occurence="0" SearchSteps="Selector, FuzzySelector, Image" Text="Home Pen" xmlns="clr-namespace:UiPath.MobileAutomation.Models;assembly=UiPath.MobileAutomation">
+  <imageRef attrName="ImageBase64" xmlns="">0xrsYkhPUykq8nUXiAHM9Ug</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6d1180b093c801984a6b43816dcf37f2.png" xmlns="">05NxI_jFMXkSC5KG79kjFlA</imageRef>
+</Target>

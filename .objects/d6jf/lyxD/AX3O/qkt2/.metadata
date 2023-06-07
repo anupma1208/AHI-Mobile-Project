@@ -1,0 +1,14 @@
+﻿{
+  "Id": "qkt2S4sYmEuwmhNXAA2bsw",
+  "Reference": "jcxlhVDB40ywyiXxJ3Vzgg/qkt2S4sYmEuwmhNXAA2bsw",
+  "ParentRef": "jcxlhVDB40ywyiXxJ3Vzgg/AX3OEK9pD0mhCShL39ohEQ",
+  "Name": "Tap",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-22T09:31:03.1655628Z",
+  "CreatedBy": [
+    "UiPath.MobileAutomation, Version=22.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-22T09:31:03.1655628Z"
+}
